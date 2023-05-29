@@ -1,2 +1,2 @@
-# companies-and-markets
-News, analysis and comment
+# companies
+Innovation, investment and patent filing
