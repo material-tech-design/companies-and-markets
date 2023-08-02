@@ -1,2 +1,2 @@
 # companies
-Leading bioplastic companies by patent filing
+Leading bioplastic and innovation companies
